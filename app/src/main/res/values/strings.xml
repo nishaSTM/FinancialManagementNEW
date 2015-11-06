@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArtooProject</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="details">
+        <item>Account</item>
+        <item>Bill</item>
+        <item>Cash</item>
+        <item>SpendSumarry</item>
+        <item>Share</item>
+        <item>LikeUsOnFb</item>
+        <item>follow_on_Twitter</item>
+        <item>About</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="cact_close">Close</string>
+    <string name="cact_copy">Copy</string>
+    <string name="cact_create">Create</string>
+    <string name="label_money">Money</string>
+    <string name="label_to_account">To</string>
+    <string name="label_note">Note</string>
+    <string name="label_from_account">Purpose</string>
+    <string name="cact_cancel">Cancel</string>
+    <string name="cact_ok">OK</string>
+
+    <string-array name="array_from">
+        <item>None</item>
+        <item>shopping</item>
+        <item>Dining</item>
+        <item>Grocery</item>
+        <item>Entertainment</item>
+        <item>HouseHold</item>
+        <item>Maid</item>
+        <item>Transport</item>
+        <item>Education</item>
+        <item>Travel</item>
+        <item>Tax</item>
+    </string-array>
+    <string-array name="bar_from">
+        <item>Weekly</item>
+        <item>Yearly</item>
+        <item>Monthly</item>
+
+    </string-array>
+    <string-array name="array_to">
+        <item>None</item>
+        <item>Asset-Bank</item>
+        <item>A</item>
+        <item>B</item>
+        <item>Asset-Cash</item>
+        <item>Income-Other Income</item>
+        <item>Party</item>
+        <item>Liability-Credit Card</item>
+        <item>Personal</item>
+    </string-array>
+
+</resources>

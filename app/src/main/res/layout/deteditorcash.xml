@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/include_titlebar" />
+
+    <ListView
+        android:id="@+id/cashList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow"
+        android:divider="@android:color/background_light"
+        android:dividerHeight="1dp" >
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="200"
+        android:title="Search"
+        android:icon="@drawable/search"
+        app:showAsAction="ifRoom"
+        ></item>
+    <item
+        android:id="@+id/action_user"
+        android:orderInCategory="300"
+        android:title="User"
+        android:icon="@drawable/action_delete"
+        app:showAsAction="ifRoom"></item>
+    <!--<item
+        android:id="@+id/action_delete"
+
+        android:title="Delete"
+        android:icon="@drawable/action_delete"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/action_home"
+
+        android:title="Home"
+        android:icon="@drawable/action_home"
+        app:showAsAction="ifRoom"></item>-->
+
+</menu>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+/**
+* @copyright	Copyright (C) 2010 - 2010 Chatura Dilan Perera
+* @license		GNU/GPL
+* This Application is released on behalf of ICTA (Information and Communication Technology Agency of Sri Lanka)
+* to the public under the GNU General Public License
+*/
+-->
+
+<resources>
+    <color name="ColorPrimary">#e62117</color>
+    <color name="ColorPrimaryDark">#c31c13</color>
+    <color name="tabsScrollColor">#8a140e</color>
+    <color name="title_background">#ff355689</color>
+    <color name="title_text">#ffffffff</color>
+    <color name="title_text_alt">#ff000000</color>
+    <color name="foreground1">#ff355689</color>
+    <color name="foregroundRed">#ffff0000</color>
+    <color name="foreground2">#ff7081a3</color>
+    <color name="background1">#ffffffff</color>
+    <color name="background2">#ffd5ddeb</color>
+    <color name="background3">#ffe3e8f1</color>
+    <color name="title_separator">#40ffffff</color>
+    <color name="session_foreground_past">#ff999999</color>
+    <color name="pinned_header_background">#ff202020</color>
+    <color name="blue">#E3F2FD</color>
+    <color name="green">#4CAF50</color>
+    <color name="button_blue">#00B0FF</color>
+    <color name="pink">#F50057</color>
+    <color name="yellow">#B2FF59</color>
+    <color name="black">#000000</color>
+
+</resources>
